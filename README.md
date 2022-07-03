@@ -2,7 +2,7 @@
 
 Singing in Augmented Reality!
 
-![App Demo](public/sweetniblets.gif)
+![App Demo](public/sweetniblets1.gif)
 
 See it Live:
 https://sweet-niblets.vercel.app/sing
